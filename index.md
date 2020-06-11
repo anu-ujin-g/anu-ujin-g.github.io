@@ -2,34 +2,31 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
+- [Keepin' It Real: How to Identify Fake and Genuine Reviews](https://github.com/anu-ujin-g/KeepinItReal)
+- [Python Price Tracking and Monitoring Tool](https://github.com/anu-ujin-g/py_price_project/)
+- [Food Happens in Vegas: How Can Restaurants Improve Their Yelp Profiles for Success?](https://github.com/anu-ujin-g/Vegas_Foodies)
+- [Amazon.com and Its Effect on the Retail Market and Employment](http://example.com/)
+
+---
+
+### Academic projects 
+
+[Keepin' It Real: How to Identify Fake and Genuine Reviews](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Python Price Tracking and Monitoring Tool](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Food Happens in Vegas: How Can Restaurants Improve Their Yelp Profiles for Success?](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
+[Amazon.com and Its Effect on the Retail Market and Employment]
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
