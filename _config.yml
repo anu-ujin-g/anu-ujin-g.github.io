@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/anuujingereltod"><img src="fab fa-fw fa-linkedin"/></a>
+  <a href="https://www.linkedin.com/in/anuujingereltod"><i class="fab fa-fw fa-linkedin"></i></a>
   
 
 email            :
