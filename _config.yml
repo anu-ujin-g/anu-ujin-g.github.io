@@ -6,23 +6,18 @@ description: > # your text below (remove <br> elements if you don't need line br
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
-author:
-  name             : "Anu-Ujin Gerelt-Od"
-  avatar           : "/assets/images/Anu-Ujin.JPG"
-  bio              : "MS in Data Science student, NYU"
-  location         : "New York, NY, USA"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:anuujin96@gmail.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/anu-ujin-g"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/anuujingereltod"
+
+email            :
+links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "mailto:anuujin96@gmail.com"
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/anu-ujin-g"
+  - label: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://linkedin.com/in/anuujingereltod"
   
   
 theme: jekyll-theme-minimal
