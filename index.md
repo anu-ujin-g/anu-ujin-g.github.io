@@ -4,7 +4,7 @@
 
 ## Projects
 
-- [Keepin' It Real: How to Identify Fake and Genuine Reviews](https://github.com/anu-ujin-g/KeepinItReal)
+- [Keepin' It Real: How to Identify Fake and Genuine Reviews](p1)
 - [Python Price Tracking and Monitoring Tool](https://github.com/anu-ujin-g/py_price_project/)
 - [Food Happens in Vegas: How Can Restaurants Improve Their Yelp Profiles for Success?](https://github.com/anu-ujin-g/Vegas_Foodies)
 - [Amazon.com and Its Effect on the Retail Market and Employment]
@@ -13,7 +13,7 @@
 
 ## Academic projects 
 
-### [Keepin' It Real: How to Identify Fake and Genuine Reviews](https://github.com/anu-ujin-g/KeepinItReal/blob/master/KeepinItReal.pdf)
+### P1 [Keepin' It Real: How to Identify Fake and Genuine Reviews](https://github.com/anu-ujin-g/KeepinItReal/blob/master/KeepinItReal.pdf)
 
 **Abstract**
 
