@@ -5,15 +5,16 @@
 ## Projects
 
 - [Keepin' It Real: How to Identify Fake and Genuine Reviews](#keepin-it-real-how-to-identify-fake-and-genuine-reviews)
-- [Python Price Tracking and Monitoring Tool](https://github.com/anu-ujin-g/py_price_project/)
-- [Food Happens in Vegas: How Can Restaurants Improve Their Yelp Profiles for Success?](https://github.com/anu-ujin-g/Vegas_Foodies)
-- [Amazon.com and Its Effect on the Retail Market and Employment]
+- [Python Price Tracking and Monitoring Tool](#python-price-tracking-and-monitoring-tool)
+- [Food Happens in Vegas: How Can Restaurants Improve Their Yelp Profiles for Success?](#food-happens-in-vegas-how-can-restaurants-improve-their-yelp-profiles-for-success)
+- [Amazon.com and Its Effect on the Retail Market and Employment](#amazoncom-and-its-effect-on-the-retail-market-and-employment)
 
 ---
 
 ## Academic projects 
 
 ### [Keepin' It Real: How to Identify Fake and Genuine Reviews](https://github.com/anu-ujin-g/KeepinItReal/blob/master/KeepinItReal.pdf)
+[Github link](https://github.com/anu-ujin-g/KeepinItReal)
 
 **Abstract**
 
@@ -22,14 +23,14 @@ Reviews have quickly become an important decision making tool for consumers cons
 
 ---
 ### [Python Price Tracking and Monitoring Tool](https://github.com/anu-ujin-g/py_price_project/blob/master/Price_Tracker_report.pdf)
-
+[Github link](https://github.com/anu-ujin-g/py_price_project/)
 **Abstract**
 
 It has become increasingly difficult to shop as a rational consumer and buy products from retailers offering the lowest prices. There are differences in prices in the market; retailers offer the same product for different prices and external factors create price fluctuations over time. In our project we tracked prices across three major e-commerce companies: Amazon, Target and Walmart. We enable users to track baskets of items over time by providing specific URLs of items from Amazon or search for products using a keyword. Users can explore price data and check how prices change over time or which retailer sells a given item for the cheapest price at a given time by exploring graph of the prices.
 
 ---
 ### [Food Happens in Vegas: How Can Restaurants Improve Their Yelp Profiles for Success?](https://github.com/anu-ujin-g/Vegas_Foodies/blob/master/DSGA1001_TermProject2019_FinalWriteUp_VegasFoodies.pdf)
-
+[Github link](https://github.com/anu-ujin-g/Vegas_Foodies)
 **Abstract**
 
 The purpose of this data mining project is to examine how restaurants can improve their Yelp profile to become more “successful” on Yelp in Las Vegas, Nevada. Differently from the traditional approaches to this dataset, our methodology defines “success” as a binary variable through an exploratory analysis of the restaurants’ review counts and ratings on Yelp. Feature variables include categories and attributes that Yelp users can use to select which restaurant to visit. For this project, we ran Decision Tree, Random Forest, and Logistic Regression to explore key features associated with “success” and obtain recommendations for restaurants to improve their Yelp profile. Final results indicate that determinants of success vary by cuisine type.
