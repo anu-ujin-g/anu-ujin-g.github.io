@@ -19,22 +19,35 @@
 **Abstract**
 
 Reviews have quickly become an important decision making tool for consumers considering both online and offline spending. Thus, for a new industry around buying and selling Fake Reviews has risen to meet the demand of unscrupulous businesses. The goal of this project is to generate a model that successfully classifies Fake and Genuine reviews.
+
 <img src="images/Final_models_KIR.jpeg?raw=true"/>
+_Visualization of the models' performance and precision scores_
 
 ---
 ### [Python Price Tracking and Monitoring Tool](https://github.com/anu-ujin-g/py_price_project/blob/master/Price_Tracker_report.pdf)
 [Github link](https://github.com/anu-ujin-g/py_price_project/)
+
 **Abstract**
 
 It has become increasingly difficult to shop as a rational consumer and buy products from retailers offering the lowest prices. There are differences in prices in the market; retailers offer the same product for different prices and external factors create price fluctuations over time. In our project we tracked prices across three major e-commerce companies: Amazon, Target and Walmart. We enable users to track baskets of items over time by providing specific URLs of items from Amazon or search for products using a keyword. Users can explore price data and check how prices change over time or which retailer sells a given item for the cheapest price at a given time by exploring graph of the prices.
 
+<img src="images/Price_window.jpeg?raw=true"/>
+_Sample run of the price comparison tool for a Window Shopper_
+<img src="images/Price_scraper.jpeg?raw=true"/>
+_Sample run of the price scraper for an Informed Buyer_
+<img src="images/Price_tracker.jpeg?raw=true"/>
+_Example of the price tracker for an Informed Buyer_
+
 ---
 ### [Food Happens in Vegas: How Can Restaurants Improve Their Yelp Profiles for Success?](https://github.com/anu-ujin-g/Vegas_Foodies/blob/master/DSGA1001_TermProject2019_FinalWriteUp_VegasFoodies.pdf)
 [Github link](https://github.com/anu-ujin-g/Vegas_Foodies)
+
 **Abstract**
 
 The purpose of this data mining project is to examine how restaurants can improve their Yelp profile to become more “successful” on Yelp in Las Vegas, Nevada. Differently from the traditional approaches to this dataset, our methodology defines “success” as a binary variable through an exploratory analysis of the restaurants’ review counts and ratings on Yelp. Feature variables include categories and attributes that Yelp users can use to select which restaurant to visit. For this project, we ran Decision Tree, Random Forest, and Logistic Regression to explore key features associated with “success” and obtain recommendations for restaurants to improve their Yelp profile. Final results indicate that determinants of success vary by cuisine type.
+
 <img src="images/Final_models_VF.png?raw=true"/>
+_Comparison of the performance of different models_
 
 ---
 ### [Amazon.com and Its Effect on the Retail Market and Employment](/pdf/Gerelt-Od_Thesis.pdf)
