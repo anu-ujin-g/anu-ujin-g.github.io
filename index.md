@@ -14,7 +14,7 @@
 ## Academic projects 
 
 ### [Keepin' It Real: How to Identify Fake and Genuine Reviews](https://github.com/anu-ujin-g/KeepinItReal/blob/master/KeepinItReal.pdf)
-[![GitHub Link](https://img.shields.io/badge/GitHub-GitHub_Link-blue?logo=GitHub)](https://github.com/anu-ujin-g/KeepinItReal)
+[![GitHub Link](https://img.shields.io/badge/GitHub-Project_Code-blue?logo=GitHub)](https://github.com/anu-ujin-g/KeepinItReal)
 
 **Abstract**
 
@@ -26,7 +26,7 @@ _Visualization of the models' performance and precision scores_
 
 ---
 ### [Python Price Tracking and Monitoring Tool](https://github.com/anu-ujin-g/py_price_project/blob/master/Price_Tracker_report.pdf)
-[![GitHub Link](https://img.shields.io/badge/GitHub-GitHub_Link-blue?logo=GitHub)](https://github.com/anu-ujin-g/py_price_project/)
+[![GitHub Link](https://img.shields.io/badge/GitHub-Project_Code-blue?logo=GitHub)](https://github.com/anu-ujin-g/py_price_project/)
 
 **Abstract**
 
@@ -46,7 +46,8 @@ _Example of the price tracker for an Informed Buyer_
 
 ---
 ### [Food Happens in Vegas: How Can Restaurants Improve Their Yelp Profiles for Success?](https://github.com/anu-ujin-g/Vegas_Foodies/blob/master/DSGA1001_TermProject2019_FinalWriteUp_VegasFoodies.pdf)
-[![GitHub Link](https://img.shields.io/badge/GitHub-GitHub_Link-blue?logo=GitHub)](https://github.com/anu-ujin-g/Vegas_Foodies)
+[![GitHub Link](https://img.shields.io/badge/GitHub-Project_Code-blue?logo=GitHub)](https://github.com/anu-ujin-g/Vegas_Foodies)
+
 **Abstract**
 
 The purpose of this data mining project is to examine how restaurants can improve their Yelp profile to become more “successful” on Yelp in Las Vegas, Nevada. Differently from the traditional approaches to this dataset, our methodology defines “success” as a binary variable through an exploratory analysis of the restaurants’ review counts and ratings on Yelp. Feature variables include categories and attributes that Yelp users can use to select which restaurant to visit. For this project, we ran Decision Tree, Random Forest, and Logistic Regression to explore key features associated with “success” and obtain recommendations for restaurants to improve their Yelp profile. Final results indicate that determinants of success vary by cuisine type.
