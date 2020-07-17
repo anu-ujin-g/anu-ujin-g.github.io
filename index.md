@@ -6,6 +6,7 @@
 
 - [Keepin' It Real: How to Identify Fake and Genuine Reviews](#keepin-it-real-how-to-identify-fake-and-genuine-reviews)
 - [Python Price Tracking and Monitoring Tool](#python-price-tracking-and-monitoring-tool)
+- [Goodreads Book Recommender System](#goodreads-book-recommender-system)
 - [Food Happens in Vegas: How Can Restaurants Improve Their Yelp Profiles for Success?](#food-happens-in-vegas-how-can-restaurants-improve-their-yelp-profiles-for-success)
 - [Amazon.com and Its Effect on the Retail Market and Employment](#amazoncom-and-its-effect-on-the-retail-market-and-employment)
 
