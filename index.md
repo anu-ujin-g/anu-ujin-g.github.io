@@ -45,6 +45,18 @@ _Example of the price tracker for an Informed Buyer_
 <img src="images/Price_tracker.jpeg?raw=true"/>
 
 ---
+### [Goodreads Book Recommender System](https://github.com/anu-ujin-g/big_readers/blob/master/Big_Readers_writeup.pdf)
+[![GitHub Link](https://img.shields.io/badge/GitHub-Project_Code-blue?logo=GitHub)](https://github.com/anu-ujin-g/big_readers/)
+
+**Abstract**
+
+Recommender systems are a driving force for a variety of businesses such as retailers and entertainment services, and their popularity is only rising. On the business side, it allows the companies to offer a wide range of products, without limiting them to a confined physical space. As for the users, it makes it easier for them to make a decision when consuming a product by giving them a personal recommendation based on the choices made by users with similar interests. This project explores a basic recommendation system implementation, with a comparison to single machine implementations extension. The data set that is used for this project was provided by Goodreads - an online platform for readers to share their opinions on books they’ve read. As we have explicit feedback from the users in the form of a rating, we have used a Collaborative Filtering approach, which creates a recommendation based on the behavior history of the user as well as of users that have similar interests. Additionally, as the data matrix for this type of problem is usually very sparse, we have used an Alternating Least Squares method to process the data set and make predictions.
+
+_Sample output from the Recommender System_
+
+<img src="images/Rec_sys.jpeg?raw=true"/>
+
+---
 ### [Food Happens in Vegas: How Can Restaurants Improve Their Yelp Profiles for Success?](https://github.com/anu-ujin-g/Vegas_Foodies/blob/master/DSGA1001_TermProject2019_FinalWriteUp_VegasFoodies.pdf)
 [![GitHub Link](https://img.shields.io/badge/GitHub-Project_Code-blue?logo=GitHub)](https://github.com/anu-ujin-g/Vegas_Foodies)
 
