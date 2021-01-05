@@ -28,7 +28,7 @@
 **Abstract**
 The performance of NMT models are highly sensitive to the amount of available training data. For this reason, low resource language pairs such as English- Vietnamese often suffer from poor performance. In the scope of this project, the IWSLT’15 English-Vietnamese dataset was used to experiment with different encoder-decoder architectures using LSTM and GRU RNNs, and hyperparameter tuning to maximize NMT model performance.
 
-_Sample translations showing from left to right: complications with <UNK\> tokens, grammatical errors, and a good translation
+_Sample translations showing from left to right: complications with \<UNK\> tokens, grammatical errors, and a good translation
 
 <img src="images/NMT_sample.png?raw=true"/>
 
