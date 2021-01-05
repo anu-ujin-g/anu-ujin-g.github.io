@@ -16,19 +16,23 @@
 
 ## Academic projects 
 
-### [One Medical Passport: Predictive Obstructive Sleep Apnea]
+### [One Medical Passport: Predictive Obstructive Sleep Apnea](/pdf/Capstone_Team27_Final_Report.pdf)
 
 **Abstract**
+The use of machine learning algorithms in the medical field has gained traction on account of its ability to provide more concrete and accurate results. This research was conducted in cooperation with the healthcare SaaS company One Medical Passport to examine potential predictors of obstructive sleep apnea (OSA) and to create a pre-screening tool. We used various machine learning and deep learning algorithms including logistic regression, random forest, multi-layer perceptron, and K-modes clustering to assess the predictive power of 4 out of the 8 criteria included in STOP-BANG which is the most widely-used OSA screening questionnaire, and also explored other possible predictors that could be used to augment the existing questionnaire.
 
+_Top 15 features and their importance weights, according to our models_
+
+<img src="images/1MP_features.png?raw=true"/>
 
 ---
-### [Neural Machine Translation: Vietnamese-English](pdf/nmt_vi-en.pdf)
+### [Neural Machine Translation: Vietnamese-English](/pdf/nmt_vi-en.pdf)
 [![GitHub Link](https://img.shields.io/badge/GitHub-Project_Code-blue?logo=GitHub)](https://github.com/anu-ujin-g/nmt-vi-en)
 
 **Abstract**
 The performance of NMT models are highly sensitive to the amount of available training data. For this reason, low resource language pairs such as English- Vietnamese often suffer from poor performance. In the scope of this project, the IWSLT’15 English-Vietnamese dataset was used to experiment with different encoder-decoder architectures using LSTM and GRU RNNs, and hyperparameter tuning to maximize NMT model performance.
 
-_Sample translations showing from left to right: complications with \<UNK\> tokens, grammatical errors, and a good translation
+_Sample translations showing from left to right: complications with \<UNK\> tokens, grammatical errors, and a good translation_
 
 <img src="images/NMT_sample.png?raw=true"/>
 
