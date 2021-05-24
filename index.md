@@ -4,6 +4,7 @@
 
 ## Projects
 
+- [Analysis of Indirect Question Answering Models Using Transfer Learning Techniques](#indirectqa)
 - [One Medical Passport: Predictive Obstructive Sleep Apnea](#1mp-osa)
 - [Neural Machine Translation: Vietnamese-English](#nmt-viet-eng)
 - [Keepin' It Real: How to Identify Fake and Genuine Reviews](#keepin-it-real-how-to-identify-fake-and-genuine-reviews)
@@ -16,6 +17,30 @@
 
 ## Academic projects 
 
+### [Analysis of Indirect Question Answering Models Using Transfer Learning Techniques](/pdf/NLU_project_final.pdf)
+[![GitHub Link](https://img.shields.io/badge/GitHub-Project_Code-blue?logo=GitHub)](https://github.com/anu-ujin-g/indirectqa_nlu)
+
+**Abstract**
+
+The IndirectQA task aims to understand responses to naturally occurring boolean questions which do not contain direct cue words. Building models that perform well on this task can be instrumental in improving performance of conversational chatbots, as well as interactions with robots or other AI agents. In this paper, we explore the recently developed Circa dataset of indirect question-answer pairs, attempting to replicate and then improve upon its classification results. We first implement the same BERT-based models fine-tuned on other datasets reported in the original paper, and then run similar experiments on other model architectures using T5, RoBERTa, and UnifiedQA. The RoBERTa model fine-tuned on MNLI and Circa achieved the highest accuracy on the test set, in both the strict (87.5%) and relaxed settings (89.6%), as well as the highest F-1 scores on both the strict (86.4%) and relaxed (89.3%) settings.
+
+_Results from experiments using different baseline models_
+
+<img src="images/IndirectQA_results.png?raw=true"/>
+
+---
+### [Generating Feature Impact from Individual Conditional Expectation Plots](/pdf/Generating Feature Impact from Individual Conditional Expectation Plots.pdf)
+[![GitHub Link](https://img.shields.io/badge/GitHub-Project_Code-blue?logo=GitHub)](https://github.com/anu-ujin-g/mltools-fi_cate)
+
+**Abstract**
+
+As machine learning systems become ubiquitous, methods for understanding and interpreting these models are increasingly important. In particular, practioners are often interested in both what features the model relies on and how the model relies on them – the feature’s impact on model predictions. Previous work on feature impact including partial derivative plots and individual conditional expectation (ICE) plots has focused on a visual interpretation of feature impact. To address shortcomings in ICE, we propose several modifications for visual clarity and computational efficiency. To quantify feature impact, we also introduce ICE feature impact, a model-agnostic, performance-agnostic feature impact metric extracted from ICE plots. Additionally, we introduce an in-distribution variant of ICE feature impact to reduce the influence of out-of-distribution points. To assess utility, we conduct an experiment comparing ICE feature impact with random forest feature importance scores in a real-world dataset.
+
+_Proposed change to the ICE algorithm_
+
+<img src="images/ICE_algo.png?raw=true"/>
+
+---
 ### [One Medical Passport: Predictive Obstructive Sleep Apnea](/pdf/Capstone_Team27_Final_Report.pdf)
 
 **Abstract**
