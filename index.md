@@ -2,11 +2,12 @@
 
 ---
 
-## Projects
+## Index
 
-- [Analysis of Indirect Question Answering Models Using Transfer Learning Techniques](#indirectqa)
-- [One Medical Passport: Predictive Obstructive Sleep Apnea](#1mp-osa)
-- [Neural Machine Translation: Vietnamese-English](#nmt-viet-eng)
+- [Analysis of Indirect Question Answering Models Using Transfer Learning Techniques](#analysis-of-indirect-question-answering-models-using-transfer-learning-techniques)
+- [Generating Feature Impact from Individual Conditional Expectation Plots](#generating-feature-impact-from-individual-conditional-expectation-plots)
+- [One Medical Passport: Predictive Obstructive Sleep Apnea](#one-medical-passport-predictive-obstructive-sleep-apnea)
+- [Neural Machine Translation: Vietnamese-English](#neural-machine-translation-vietnamese-english)
 - [Keepin' It Real: How to Identify Fake and Genuine Reviews](#keepin-it-real-how-to-identify-fake-and-genuine-reviews)
 - [Python Price Tracking and Monitoring Tool](#python-price-tracking-and-monitoring-tool)
 - [Goodreads Book Recommender System](#goodreads-book-recommender-system)
@@ -15,7 +16,7 @@
 
 ---
 
-## Academic projects 
+## Projects 
 
 ### [Analysis of Indirect Question Answering Models Using Transfer Learning Techniques](/pdf/NLU_project_final.pdf)
 [![GitHub Link](https://img.shields.io/badge/GitHub-Project_Code-blue?logo=GitHub)](https://github.com/anu-ujin-g/indirectqa_nlu)
